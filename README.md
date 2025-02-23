@@ -1,4 +1,4 @@
 # GitPractice
-by Sakshi
+Author- Sakshi
 <br>
 This Repository is for practicing git commands.
